@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title">{{title}}</text></view><view><button data-event-opts="{{[['tap',[['addAC']]]]}}" bindtap="__e">添加爱宠</button></view></view>
